@@ -4,8 +4,8 @@ import requests
 import json
 import time
 
-API_KEY = "Ptnvs2sCIXBBAVGR3069XRi7"
-SECRET_KEY = "qYwfcHSEZISalgkpvj1IRU0R4QVMPyLd"
+API_KEY = ""
+SECRET_KEY = ""
 
 def get_access_token():
     """
